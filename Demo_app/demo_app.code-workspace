@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"hardware.h": "c",
+			"main.h": "c",
+			"18f26k22.h": "c",
+			"freq.h": "c",
+			"analog.h": "c",
+			"comm.h": "c",
+			"scheduler.h": "c",
+			"logger.h": "c",
+			"ee24fc512.h": "c",
+			"xutility": "c",
+			"boot.h": "c"
+		},
+		"C_Cpp.default.includePath": [
+			"C:\\Program Files (x86)\\PICC\\Devices\\"
+		],
+		"C_Cpp.default.defines": [
+			"__PCH__"
+		]
+	}
+}

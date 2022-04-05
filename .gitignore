@@ -1,0 +1,14 @@
+#output files
+/Demo_app/output/
+/Bootloader/output/
+/Software/BLLib/bin/
+/Software/BLLib/obj/
+/Software/BLApp/bin/
+/Software/BLApp/obj/
+/Software/.vs/
+
+#misc
+*.zip
+*.rar
+*.workspace
+*.pdsbak

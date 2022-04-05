@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"main.h": "c",
+			"18f26k22.h": "c",
+			"boot.h": "c"
+		},
+		"C_Cpp.default.includePath": [
+			"C:\\Program Files (x86)\\PICC\\Devices\\"
+		],
+		"C_Cpp.default.defines": [
+			"__PCH__"
+		]
+	}
+}
